@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "domain": "ABBA",
+  "repository": "carbonactual/engram",
+  "role": "memory_capability_source",
+  "owner": "ABBA Master AI",
+  "provides": ["memory persistence", "retrieval", "provenance-linked context", "learning inputs"],
+  "activation": "governed_and_scoped",
+  "invariants": ["no authority inheritance from memory", "no silent promotion of recalled data to Actual", "retention and privacy policies apply"],
+  "free_open_rule": true
+}
